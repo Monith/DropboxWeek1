@@ -41,7 +41,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-![Alt text](http://imgur.com/a/xErip)
+![Alt text](https://github.com/Monith/DropboxWeek1/blob/master/dropbox_gif.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
